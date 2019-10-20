@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Neptune Starways</string>
+    <string name="best_travel">Find best activity for you</string>
+    <string name="news">News</string>
+    <string name="my_activities">My activities</string>
+    <string name="booking">Booking</string>
+    <string name="lorem"> Agenor Linea is an unusual feature on Europa, since it is brighter than its surroundings while most of Europas
+        ridges and bands are relatively dark. Its interior consists of several long bands, just one of which is the very bright feature known as Agenor. A few very small craters pockmark Agenor Linea and its surroundings. Agenor is cut by narrow fractures, and by small rounded features called lenticulae.</string>
+
+    <string name="text1">NASA Cassini spacecraft has provided scientists the first close-up, visible-light views of a behemoth hurricane swirling around Saturns north pole.
+
+In high-resolution pictures and video, scientists see the hurricanes eye is about 1,250 miles (2,000 kilometers) wide, 20 times larger than the average hurricane eye on Earth. Thin, bright clouds at the outer edge of the hurricane are traveling 330 mph(150 meters per second). The hurricane swirls inside a large, mysterious, six-sided weather pattern known as the hexagon.
+
+"We did a double take when we saw this vortex because it looks so much like a hurricane on Earth," said Andrew Ingersoll, a Cassini imaging team member at the California Institute of Technology in Pasadena. "But there it is at Saturn, on a much larger scale, and it is somehow getting by on the small amounts of water vapor in Saturn's hydrogen atmosphere."</string>
+
+    <string name="text2">Cilix crater is one of the largest impact craters on Europa. The crater rim rises steeply about 980 feet (300 meters) above a flat crater floor that is interrupted by a central peak which is about 660 feet (200 meters) high. Cilix is approximately 9 miles wide. Well-preserved craters like Cilix are rare on Europas surface, where ongoing geological activity is thought to disrupt most surface features over timescales of tens of millions of years.
+    </string>
+    <string name="text3">This mosaic of the Conamara Chaos region clearly indicates relatively recent modification of Europas surface. The ice rafts look a lot like what scientists see on Earths poles, where large chunks of ice break away and move to new positions. The blocks on Europa were shifted, rotated, and even tipped and partially submerged within a mobile material that was either liquid water, warm mobile ice, or an ice and water slush. The presence of young fractures cutting through Conamara Chaos indicate that the surface froze again into solid, brittle ice. Scientists believe this region may contain clues about the composition of Europas ocean.</string>
+    <string name="text4">Pwyll, featured in this image, is thought to be one of the youngest features on Europas surface. The diameter of the central dark spot is approximately 25 miles (about 40 kilometers), and bright white rays extend for hundreds of miles in all directions from the impact site. The rays cross over many different terrain types, indicating that they are younger than anything they cross. Their bright white color may indicate that they are composed of fresh, fine water-ice particles, as opposed to the blue and brown tints of older materials elsewhere in the image.</string>
+</resources>
+
